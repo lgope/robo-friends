@@ -4,7 +4,8 @@ A single page application where the user can search for robot friends among all.
 <table>
 	<tr>
 		<td>
-			Robo Friends in a ReactJS web application which is a Card UI and have different robot information in card form and we can search           dynamically through those cards by name of robot.
+			Robo Friends is a ReactJS web application that is a Card UI and has different robot information in card 
+			form and we can search dynamically through those cards by name of the robot. 🤖
 		</td>
 	</tr>
 </table>
