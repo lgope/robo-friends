@@ -22,8 +22,10 @@ A single page application where the user can search for robot friends among all.
 ### Home Page :
 ![robohome](https://user-images.githubusercontent.com/58518192/72223570-802eae00-359a-11ea-9cdf-e090287f89a5.png)
 
-### Searching for robo :
+### Searching Dynamically :
+![searchdynamically](https://user-images.githubusercontent.com/58518192/72633599-01af8300-3983-11ea-9799-add6e36d1472.gif)
 
+### Searching for robo :
 ![sbname](https://user-images.githubusercontent.com/58518192/72223575-95a3d800-359a-11ea-89b3-c32b346d49ec.png)
 
 ### Instructions
